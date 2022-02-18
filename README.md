@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hello, world! I'm GraceKim 👋
 
-<!--
-**GraceKim527/GraceKim527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! <br/>
+I'm Eun Hye Kim, beginner of development and a college student.
 
-Here are some ideas to get you started:
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGraceKim527%2F&count_bg=%23FDCCD1&title_bg=%23FFA0AA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>💎 I can 💎</h2>
+
+<p>
+<img src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=222323"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</p>
+
+<h2>📈 Stats 📈</h2>
+
+<div align=center>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lemonherb0323)](https://solved.ac/lemonherb0323)
+![GraceKim527's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraceKim527&show_icons=true&theme=radical)
+
+</div>
