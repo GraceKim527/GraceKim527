@@ -30,8 +30,7 @@ I'm Eun Hye Kim, beginner of development and a college student.
 
 <div align=center>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lemonherb0323)](https://solved.ac/lemonherb0323)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lemonherb0323)](https://solved.ac/lemonherb0323)
 ![GraceKim527's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraceKim527&show_icons=true&theme=radical)
 
 </div>
