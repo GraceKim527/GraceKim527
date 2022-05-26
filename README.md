@@ -1,4 +1,4 @@
-### Hello, world! I'm GraceKim 👋
+## Hello, world! I'm GraceKim 👋
 
 Hi there! <br/>
 I'm Eun Hye Kim, beginner of development and a college student.
