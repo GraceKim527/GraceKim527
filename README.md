@@ -10,13 +10,6 @@ I'm Eun Hye Kim, beginner of development and a college student.
 💻 Blog - [velog](https://velog.io/@gracekim527) <br />
 ✉️ Mail - [mail](mailto:lemonherb0323@naver.com)
 
-<h2>📖 Learning 📖</h2>
-<p>  
-
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-</p>
-
 <h2>📚 Stack 📚</h2>
 <p>
 
@@ -27,6 +20,9 @@ I'm Eun Hye Kim, beginner of development and a college student.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 </p>
 
 
