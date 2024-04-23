@@ -8,7 +8,8 @@ I'm Eun Hye Kim, beginner of development and a college student.
 
 💻 PrevBlog - [tistory](https://gracekim-devstory.tistory.com/) <br />
 💻 Blog - [velog](https://velog.io/@gracekim527) <br />
-✉️ Mail - [mail](mailto:lemonherb0323@naver.com) <br />
+✉️ Mail(Naver) - [mail](mailto:lemonherb0323@naver.com) <br />
+✉️ Mail(Gmail) - [mail](mailto:k07173027@gmail.com) <br />
 
 <h2>📚 Stack 📚</h2>
 <p>
