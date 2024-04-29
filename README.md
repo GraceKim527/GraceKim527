@@ -11,7 +11,7 @@ I'm Eun Hye Kim, beginner of development and a college student.
 ✉️ Mail(Naver) - [Naver](mailto:lemonherb0323@naver.com) <br />
 ✉️ Mail(Gmail) - [Gmail](mailto:k07173027@gmail.com) <br />
 
-<h2>📚 Stack 📚</h2>
+<h2>📚 Stacks 📚</h2>
 <p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
