@@ -1,7 +1,7 @@
 ## Hello, world! I'm GraceKim 👋
 
 Hi there! 👋 <br/>
-I'm Eun Hye Kim, beginner of development and a college student. <br />
+I'm Eun Hye Kim, beginner of development and a college student. 💻 <br />
 I'm interested in iOS Develop and FrontEnd Develop. <br />
 
 
