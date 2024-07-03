@@ -11,6 +11,7 @@ I'm interested in iOS Develop and FrontEnd Develop. <br />
 💻 Blog - [velog](https://velog.io/@gracekim527) <br />
 ✉️ Mail(Gmail) - [Gmail](mailto:k07173027@gmail.com) <br />
 
+Connecting the Dots
 <h2>📚 Stacks 📚</h2>
 <p>
 
