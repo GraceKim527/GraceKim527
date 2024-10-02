@@ -1,15 +1,12 @@
 ## Hello, world! I'm GraceKim 👋
 
-Hi there! 👋 <br/>
-I'm Eun Hye Kim, beginner of development and a college student. 💻 <br />
-I'm interested in iOS Develop and FrontEnd Develop. <br />
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GraceKim's%20Github%20&fontSize=60&animation=twinkling" />
 
+  <a href="https://gracekim-devstory.tistory.com"><img src="https://img.shields.io/badge/tistory-fa7000?style=for-the-badge&logo=Tistory&logoColor=white" height=30px></a>
+  <a href="https://velog.io/@gracekim527/posts"/><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" height=30px></a>
+</div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGraceKim527%2F&count_bg=%23FDCCD1&title_bg=%23FFA0AA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-💻 PrevBlog - [tistory](https://gracekim-devstory.tistory.com/) <br />
-💻 Blog - [velog](https://velog.io/@gracekim527) <br />
-✉️ Mail(Gmail) - [Gmail](mailto:k07173027@gmail.com) <br />
 
 <h2>📚 Stacks 📚</h2>
 <p>
