@@ -1,4 +1,4 @@
-## Hello, world! I'm GraceKim 👋
+## Hello! I'm GraceKim 👋
 
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GraceKim's%20Github%20&fontSize=60&animation=twinkling" />
