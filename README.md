@@ -2,7 +2,6 @@
 
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GraceKim's%20Github%20&fontSize=60&animation=twinkling" />
-
   <a href="https://gracekim-devstory.tistory.com"><img src="https://img.shields.io/badge/tistory-fa7000?style=for-the-badge&logo=Tistory&logoColor=white" height=30px></a>
   <a href="https://velog.io/@gracekim527/posts"/><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" height=30px></a>
 </div>
