@@ -14,7 +14,7 @@
 - 🎓 Major in SoftWare at SKHU
 - 💻 Frontend Developer interested in **React**, **Next.js**, and **UX Design**
 - 🚀 Passionate about building services that connect people
-- 🌱 Currently exploring **React Native** & **AI x UX**
+- 🌱 Currently exploring **React Native**
 
 ---
 
