@@ -52,6 +52,21 @@
   - 구름톤 유니브 내 팀빌딩 프로젝트 개발
 
 ---
+### 💻 Projects
+
+| Project Name                                | Period              | Role                        | Link                                                                     |
+| ------------------------------------------- | ------------------- | --------------------------- | ------------------------------------------------------------------------ |
+| [kakao x goorm] 구름톤 유니브 사이트        | 2025.02 ~ (current) | 팀장/기획/프론트엔드        | [FE Repo](https://github.com/9oormthon-univ/9oormthon_univ)              |
+| 함께 사는 사람들과의 약속, 한지붕           | 2025.04. ~ 2025.06. | 프론트엔드(모바일)          | [FE Repo](https://github.com/hanziboong/hanziboong-frontend)             |
+| 성공회대 IT 커뮤니티 플랫폼, 스쿠니         | 2025.04. ~ 2025.04. | 기획/디자인/프론트엔드      | [FE Repo](https://github.com/SKHUniArchive/SKHUni-FE)                    |
+| 팀원들과 나를 맞추는 동기화, Sync Up        | 2024.10. ~ 2024.11. | 기획/디자인/프론트엔드      | [FE Repo](https://github.com/moyeothon/F4_Front)                         |
+| 내 손안에 작은 친구, Mood Friend            | 2024.07. ~ 2024.12. | 팀장/기획/디자인/프론트엔드 | [FE Repo](https://github.com/LikeLion-12th-SKHU/LikeLion-12th-TEAM02-FE) |
+| 쉽고 간편한 재고 관리, Tasty Inventory      | 2024.03. ~ 2024.06. | 기획/디자인/프론트엔드      | [FE Repo](https://github.com/Tasty-Inventory/Tasty-Inventory_FE)         |
+| 학습장, 전국 평생학습 강좌 찾기 서비스      | 2023.08. ~ 2023.10. | 기획/디자인/퍼블리싱        | [Mono Repo](https://github.com/GraceKim527/hakSeubJang-BE)               |
+| 성공회대 강의실 정보 제공 서비스, MapinSkhu | 2022.05 ~ (current) | 팀장/기획/디자인/퍼블리싱   | [Mono Repo](https://github.com/MapinSkhu/MapinSkhu.ver2)                 |
+| 전문가의 칼럼만을 기고하는 서비스, Plumn    | 2022.07 ~ 2022.08   | 팀장/기획/디자인/퍼블리싱   | [Mono Repo](https://github.com/LikeLion-at-Skhu-10/Plumn)                |
+
+---
 
 ### ✨ Activities
 
