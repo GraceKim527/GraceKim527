@@ -57,8 +57,9 @@
 
 ### 🧑‍💼 Work
 
-- **Frontend Prelencer**, (주) 구름(goorm) — *2025.02*
+- **Frontend Freelancer**, goorm Inc. — Feb 2025
   - 구름톤 유니브 내 팀빌딩 프로젝트 개발
+  - Developed the team-building project for Goormthon Univ, an inter-university hackathon program.
 
 ---
 ### 💻 Projects
