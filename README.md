@@ -70,7 +70,7 @@
 
 | Project Name                                | Period              | Role                        | Link                                                                     |
 | ------------------------------------------- | ------------------- | --------------------------- | ------------------------------------------------------------------------ |
-| [kakao x goorm] 9oormthon Univ Platform | Feb 2025 ~ (current) | Team Lead / Planner / Frontend Dev | [FE Repo](https://github.com/9oormthon-univ/9oormthon_univ)              |
+| [kakao x goorm] 9oormthon Univ Platform | Feb 2025 ~ Present | Team Lead / Planner / Frontend Dev | [FE Repo](https://github.com/9oormthon-univ/9oormthon_univ)              |
 | Hanziboong – A Shared Living Agreement App | Apr 2025 – Jun 2025 | Mobile Frontend Dev        | [FE Repo](https://github.com/hanziboong/hanziboong-frontend)             |
 | SKHUni – SKHU IT Community Platform         | Apr 2025 | Planner / Designer / Frontend Dev      | [FE Repo](https://github.com/SKHUniArchive/SKHUni-FE)                    |
 | Sync Up – Team Alignment App        | Oct 2024 – Nov 2024 | Planner / Designer / Frontend Dev      | [FE Repo](https://github.com/moyeothon/F4_Front)                         |
