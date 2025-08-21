@@ -103,21 +103,39 @@
 
 ### ✨ Activities
 
-- ☁ [kakao x goorm] **구름톤 유니브 총괄**
+-	☁ General Lead of 9oormthon Univ (kakao x goorm)
+-	🧑‍🏫 Campus Lead & Mentor at LikeLion
+-	💻 Organizer of the university hackathon SKHUthon
+
+<details>
+  <summary>🇰🇷 한국어로 보기</summary>
+
+  - ☁ [kakao x goorm] **구름톤 유니브 총괄**
 - 🧑‍🏫 **멋쟁이사자처럼** 교내 대표 및 멘토 활동
 - 💻 교내 해커톤 **스쿠톤** 주최 및 운영
-
+</details>
 
 ---
 
 ### 🏆 Awards
 
+| Year | Award | Repository |
+|------|-----------|------|
+| 2025 | 🥈 2nd Place, 17th SKHU Software Contest | [SKHUni](https://github.com/SKHUniArchive/SKHUni-FE) |
+| 2024 | 🥉 Bronze, 15th SKHU IT Contest | [Mood Friend](https://github.com/LikeLion-12th-SKHU/LikeLion-12th-TEAM02-FE) |
+| 2023 | 🥇 Gold, 14th SKHU IT Contest | [HakSeubJang](https://github.com/GraceKim527/hakSeubJang-BE) |
+| 2022 | 🏆 Grand Prize, 13th SKHU IT Contest | [MapinSkhu](https://github.com/MapinSkhu/MapinSkhu.ver2) |
+
+<details>
+  <summary>🇰🇷 한국어로 보기</summary>
+  
 | 연도 | 수상 내역 | 레포지토리 |
 |------|-----------|------|
 | 2025 | 제 17회 성공회대 소프트웨어 경진대회 2등 🥈 | [스쿠니](https://github.com/SKHUniArchive/SKHUni-FE) |
 | 2024 | 제 15회 성공회대 IT 경진대회 동상 🥉 | [Mood Friend](https://github.com/LikeLion-12th-SKHU/LikeLion-12th-TEAM02-FE) |
 | 2023 | 제 14회 성공회대 IT 경진대회 금상 🥇 | [학습장](https://github.com/GraceKim527/hakSeubJang-BE) |
 | 2022 | 제 13회 성공회대 IT 경진대회 대상 🏆 | [MapinSkhu](https://github.com/MapinSkhu/MapinSkhu.ver2) |
+</details>
 
 ---
 
