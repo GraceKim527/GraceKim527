@@ -62,7 +62,6 @@
 ### 🧑‍💼 Work
 
 - **Frontend Freelancer**, goorm Inc. — Feb 2025
-  - 구름톤 유니브 내 팀빌딩 프로젝트 개발
   - Developed the team-building project for 9oormthon Univ, an inter-university hackathon program.
 
 ---
