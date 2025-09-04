@@ -105,6 +105,25 @@
 
 ---
 
+
+### 🧩 Open Source Contributions
+
+| Project | Description | Contribution | Link |
+|---------|-------------|--------------|------|
+| [react-qr-code](https://github.com/rosskhanas/react-qr-code) | React component to generate QR codes | Support UTF-8 encoding | [PR #284](https://github.com/rosskhanas/react-qr-code/pull/284) |
+
+<details>
+<summary>🇰🇷 한국어로 보기</summary>
+
+| 프로젝트 | 설명 | 기여 내용 | 링크 |
+|----------|------|-----------|------|
+| [react-qr-code](https://github.com/rosskhanas/react-qr-code) | QR 코드를 생성하는 React 컴포넌트 | UTF-8 인코딩 지원 추가 | [PR #284](https://github.com/rosskhanas/react-qr-code/pull/284) |
+
+</details>
+
+---
+
+
 ### ✨ Activities
 
 -	☁ General Lead of 9oormthon Univ (kakao x goorm)
