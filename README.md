@@ -76,7 +76,7 @@
 | ------------------------------------------- | ------------------- | --------------------------- | ------------------------------------------------------------------------ |
 | Dongnering – Personalized Local News Summary Platform | Aug 2025 – Aug 2025 | Frontend Dev | [FE Repo](https://github.com/LikeLion-13th-SKHU/LikeLion-13th-TEAM06-FE) |
 | Hanziboong – A Shared Living Agreement App | Apr 2025 – Jun 2025 | Mobile Frontend Dev        | [FE Repo](https://github.com/hanziboong/hanziboong-frontend)             |
-| [kakao x goorm] 9oormthon Univ Platform | Feb 2025 ~ Present | Team Lead / Planner / Frontend Dev | [FE Repo](https://github.com/9oormthon-univ/9oormthon_univ)              |
+| [kakao x goorm] 9oormthon Univ Platform | Feb 2025 ~ Aug 2025 | Team Lead / Planner / Frontend Dev | [FE Repo](https://github.com/9oormthon-univ/9oormthon_univ)              |
 | SKHUni – SKHU IT Community Platform         | Apr 2025 | Planner / Designer / Frontend Dev      | [FE Repo](https://github.com/SKHUniArchive/SKHUni-FE)                    |
 | Sync Up – Team Alignment App        | Oct 2024 – Nov 2024 | Planner / Designer / Frontend Dev      | [FE Repo](https://github.com/moyeothon/F4_Front)                         |
 | Mood Friend – Mental Health Chatbot App            | Jul 2024 – Dec 2024 | Team Lead / Planner / Designer / FE Dev | [FE Repo](https://github.com/LikeLion-12th-SKHU/LikeLion-12th-TEAM02-FE) |
