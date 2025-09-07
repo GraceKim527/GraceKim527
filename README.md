@@ -126,7 +126,7 @@
 
 ### ✨ Activities
 
--	☁ General Lead of 9oormthon Univ (kakao x goorm)
+-	☁ General Lead of 9oormthonUNIV (kakao x goorm)
 -	🧑‍🏫 Campus Lead & Mentor at LikeLion
 -	💻 Organizer of the university hackathon SKHUthon
 
