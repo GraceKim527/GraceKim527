@@ -113,16 +113,16 @@
 
 ### 🧩 Open Source Contributions
 
-| Project | Description | Contribution | Link |
-|---------|-------------|--------------|------|
-| [react-qr-code](https://github.com/rosskhanas/react-qr-code) | React component to generate QR codes | Support UTF-8 encoding | [PR #284](https://github.com/rosskhanas/react-qr-code/pull/284) |
+| Project | Description | Contribution | Link | Blog |
+|---------|-------------|--------------|------| ---- |
+| [react-qr-code](https://github.com/rosskhanas/react-qr-code) | React component to generate QR codes | Support UTF-8 encoding | [PR #284](https://github.com/rosskhanas/react-qr-code/pull/284) | [Blog](https://velog.io/@gracekim527/%EC%96%B4%EC%A9%8C%EB%8B%A4%EB%B3%B4%EB%8B%88-%ED%95%B4%EC%BB%A4%ED%86%A4%EC%97%90%EC%84%9C-QR-%EC%B6%9C%EC%84%9D-%EC%B2%B4%ED%81%AC%EC%9D%B8%EC%9D%84-%EB%A7%8C%EB%93%A4%EB%8B%A4-%EC%B2%98%EC%9D%8C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B2%8C-%EB%90%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 
 <details>
 <summary>🇰🇷 한국어로 보기</summary>
 
-| 프로젝트 | 설명 | 기여 내용 | 링크 |
-|----------|------|-----------|------|
-| [react-qr-code](https://github.com/rosskhanas/react-qr-code) | QR 코드를 생성하는 React 컴포넌트 | UTF-8 인코딩 지원 추가 | [PR #284](https://github.com/rosskhanas/react-qr-code/pull/284) |
+| 프로젝트 | 설명 | 기여 내용 | 링크 | 블로그 |
+|----------|------|-----------|------| ---- |
+| [react-qr-code](https://github.com/rosskhanas/react-qr-code) | QR 코드를 생성하는 React 컴포넌트 | UTF-8 인코딩 지원 추가 | [PR #284](https://github.com/rosskhanas/react-qr-code/pull/284) | [Velog](https://velog.io/@gracekim527/%EC%96%B4%EC%A9%8C%EB%8B%A4%EB%B3%B4%EB%8B%88-%ED%95%B4%EC%BB%A4%ED%86%A4%EC%97%90%EC%84%9C-QR-%EC%B6%9C%EC%84%9D-%EC%B2%B4%ED%81%AC%EC%9D%B8%EC%9D%84-%EB%A7%8C%EB%93%A4%EB%8B%A4-%EC%B2%98%EC%9D%8C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B2%8C-%EB%90%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 
 </details>
 
