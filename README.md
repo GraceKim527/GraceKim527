@@ -74,7 +74,6 @@
 ---
 
 ### 🧑‍💼 Work
-
 - **Frontend Developer Freelancer**, goorm Inc. — Feb 2025
   - Developed the team-building project for 9oormthon Univ, an inter-university hackathon program.
 
