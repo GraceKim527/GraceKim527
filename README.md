@@ -82,6 +82,7 @@
 
 | Project Name                                | Period              | Role                        | Link                                                                     |
 | ------------------------------------------- | ------------------- | --------------------------- | ------------------------------------------------------------------------ |
+| SkillUp | Sep 2025 - current | Frontend Dev | |
 | Dongnering – Personalized Local News Summary Platform | Aug 2025 – Aug 2025 | Frontend Dev | [FE Repo](https://github.com/LikeLion-13th-SKHU/LikeLion-13th-TEAM06-FE) |
 | Hanziboong – A Shared Living Agreement App | Apr 2025 – Jun 2025 | Mobile Frontend Dev        | [FE Repo](https://github.com/hanziboong/hanziboong-frontend)             |
 | [kakao x goorm] 9oormthon Univ Platform | Feb 2025 ~ current(Refactoring) | Team Lead / Planner / Frontend Dev | [FE Repo](https://github.com/9oormthon-univ/9oormthon_univ)              |
@@ -98,6 +99,7 @@
 
 | 프로젝트 이름 | 기간 | 역할 | 링크 |
 |---------------|------|------|------|
+| 스킬업 | 2025.09 ~ (current) | 프론트엔드 | |
 | 나만을 위한 로컬 뉴스 요약 플랫폼, 동네링 | 2025.08 ~ 2025.08 | 프론트엔드 | [FE Repo](https://github.com/LikeLion-13th-SKHU/LikeLion-13th-TEAM06-FE) |
 | 함께 사는 사람들과의 약속, 한지붕           | 2025.04. ~ 2025.06. | 프론트엔드(모바일)          | [FE Repo](https://github.com/hanziboong/hanziboong-frontend)             |
 | [kakao x goorm] 구름톤 유니브 사이트 | 2025.02 ~ 현재(리팩토링 중) | 팀장 / 기획 / 프론트엔드 | [FE Repo](https://github.com/9oormthon-univ/9oormthon_univ) |
