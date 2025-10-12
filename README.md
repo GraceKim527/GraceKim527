@@ -16,6 +16,7 @@
 - 💻 Frontend Developer interested in **React**, **Next.js**, and **UI/UX**
 - 🚀 Passionate about building services that connect people
 - 🌱 Currently exploring **React Native**, **Node.js**, **Nest.js**
+- 🌏 Enjoy communicating with people from different cultures and backgrounds
 
 ---
 
