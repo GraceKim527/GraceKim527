@@ -140,6 +140,7 @@
 -	☁ General Lead of 9oormthonUNIV (kakao x goorm)
 -	🧑‍🏫 Campus Lead & Mentor at LikeLion
 -	💻 Organizer of the university hackathon SKHUthon
+-	🌱 Mentor for middle school students in coding and creative thinking
 
 <details>
   <summary>🇰🇷 한국어로 보기</summary>
@@ -147,6 +148,8 @@
   - ☁ [kakao x goorm] **구름톤 유니브 총괄**
 - 🧑‍🏫 **멋쟁이사자처럼** 교내 대표 및 멘토 활동
 - 💻 교내 해커톤 **스쿠톤** 주최 및 운영
+- 🌱 중학생 대상 코딩 멘토링 진행
+
 </details>
 
 ---
