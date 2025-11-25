@@ -72,6 +72,7 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=flat-square&logo=perplexity&logoColor=088F8F)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
 
 
 
