@@ -12,7 +12,7 @@
 
 ### 💡 About Me
 
-- 🎓 Major in SoftWare, Computer Science at SKHU
+- 🎓 Major in SoftWare
 - 💻 Frontend Developer interested in **React**, **Next.js**, **UI/UX**, **mobile native**, and **AI**
 - 🚀 Passionate about building services that connect people
 - 🌏 Enjoy communicating with people from different cultures and backgrounds
