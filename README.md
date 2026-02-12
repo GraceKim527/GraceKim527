@@ -85,10 +85,10 @@
 | [kakao x goorm] 9oormthon Univ Platform | Feb 2025 ~ Aug 2025 | Team Lead / Planner / Frontend Dev | [FE Repo](https://github.com/9oormthon-univ/9oormthon_univ)              |
 | SKHUni – SKHU IT Community Platform         | Apr 2025 | Planner / Designer / Frontend Dev      | [FE Repo](https://github.com/SKHUniArchive/SKHUni-FE)                    |
 | Sync Up – Team Alignment App        | Oct 2024 – Nov 2024 | Planner / Designer / Frontend Dev      | [FE Repo](https://github.com/moyeothon/F4_Front)                         |
-| Mood Friend – Mental Health Chatbot App            | Jul 2024 – Dec 2024 | Team Lead / Planner / Designer / FE Dev | [FE Repo](https://github.com/LikeLion-12th-SKHU/LikeLion-12th-TEAM02-FE) |
+| Mood Friend – Mental Health Chatbot App            | Jul 2024 – Dec 2024 | Team Lead / Planner / Designer / Frontend Dev | [FE Repo](https://github.com/LikeLion-12th-SKHU/LikeLion-12th-TEAM02-FE) |
 | Tasty Inventory – Inventory Management Web App      | Mar 2024 – Jun 2024 | Planner / Designer / Frontend Dev      | [FE Repo](https://github.com/Tasty-Inventory/Tasty-Inventory_FE)         |
 | HakSeubJang – Lifelong Learning Course Finder     | Aug 2023 – Oct 2023 | Planner / Designer / Publisher        | [Mono Repo](https://github.com/GraceKim527/hakSeubJang-BE)               |
-| MapinSkhu – SKHU Campus Navigation Service | May 2022 – Present | Team Lead / Planner / Designer / Publisher   | [Mono Repo](https://github.com/MapinSkhu/MapinSkhu.ver2)                 |
+| MapinSkhu – SKHU Campus Navigation Service | May 2022 – Present | Team Lead / Planner / Frontend Dev   | [Mono Repo](https://github.com/MapinSkhu/MapinSkhu.ver2)                 |
 | Plumn – Expert-Only Article Platform    | Jul 2022 – Aug 2022   | Team Lead / Planner / Designer / Publisher   | [Mono Repo](https://github.com/LikeLion-at-Skhu-10/Plumn)                |
 
 <details>
@@ -105,7 +105,7 @@
 | 내 손안에 작은 친구, Mood Friend            | 2024.07. ~ 2024.12. | 팀장/기획/디자인/프론트엔드 | [FE Repo](https://github.com/LikeLion-12th-SKHU/LikeLion-12th-TEAM02-FE) |
 | 쉽고 간편한 재고 관리, Tasty Inventory      | 2024.03. ~ 2024.06. | 기획/디자인/프론트엔드      | [FE Repo](https://github.com/Tasty-Inventory/Tasty-Inventory_FE)         |
 | 전국 평생학습 강좌 찾기 서비스, 학습장     | 2023.08. ~ 2023.10. | 기획/디자인/퍼블리싱        | [Mono Repo](https://github.com/GraceKim527/hakSeubJang-BE)               |
-| 성공회대 강의실 정보 제공 서비스, MapinSkhu | 2022.05 ~ (Present) | 팀장/기획/디자인/퍼블리싱   | [Mono Repo](https://github.com/MapinSkhu/MapinSkhu.ver2)                 |
+| 성공회대 강의실 정보 제공 서비스, MapinSkhu | 2022.05 ~ (Present) | 팀장/기획/프론트엔드   | [Mono Repo](https://github.com/MapinSkhu/MapinSkhu.ver2)                 |
 | 전문가의 칼럼만을 기고하는 서비스, Plumn    | 2022.07 ~ 2022.08   | 팀장/기획/디자인/퍼블리싱   | [Mono Repo](https://github.com/LikeLion-at-Skhu-10/Plumn)                |
 
 </details>
