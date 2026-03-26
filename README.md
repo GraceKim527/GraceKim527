@@ -67,7 +67,7 @@
 ---
 
 ### 🧑‍💼 Work
-- **Product Engineer Intern**, TainAI Inc. — (Nov 2025 - Present)
+- **Product Engineer Intern**, TainAI Inc. — (Nov 2025 - Mar 2026)
   - Designed and implemented real-time data pipelines between the main app and widgets using App Groups (iOS) and Shared Preferences (Android), resolving complex data synchronization issues.
 
 - **Frontend Engineer Freelancer**, goorm Inc. — (Feb 2025)
