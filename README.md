@@ -68,7 +68,9 @@
 
 ### 🧑‍💼 Work
 - **Product Engineer Intern**, TainAI Inc. — (Nov 2025 - Mar 2026)
-  - Designed and implemented real-time data pipelines between the main app and widgets using App Groups (iOS) and Shared Preferences (Android), resolving complex data synchronization issues.
+  - Designed and implemented real-time data pipelines between the main app and widgets using App Groups (iOS) and SharedPreferences (Android), resolving complex cross-platform data synchronization issues.
+  - Built an event-driven badge system using Firebase Cloud Functions and Firestore, designing a scalable condition engine and ensuring data consistency through atomic operations and validation logic.
+  - Leveraged AI agents in Claude Code by structuring specialized sub-agents (planning, UI structuring, code generation, refactoring) to parallelize development workflows, enabling rapid MVP delivery within 2 days and reducing bottlenecks.
 
 - **Frontend Engineer Freelancer**, goorm Inc. — (Feb 2025)
   - Developed the team-building project for 9oormthon Univ, an inter-university hackathon program.
