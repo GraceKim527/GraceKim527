@@ -12,7 +12,7 @@
 
 ### 💡 About Me
 
-- 💻 Frontend Developer interested in **React**, **React Native**, **Next.js**, **UI/UX**, **mobile native**
+- 💻 I'm Frontend Developer interested in **React**, **React Native**, **Next.js**, **UI/UX**, **mobile native**
 - 🚀 Passionate about building services that connect people
 - 🌏 Enjoy communicating with people from different cultures and backgrounds
 
