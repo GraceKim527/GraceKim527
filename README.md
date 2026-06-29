@@ -137,19 +137,19 @@
 
 ### ✨ Activities
 
-- 💡 SIPE 5th Member 
--	☁ General Lead of 9oormthonUNIV (kakao x goorm)
+- 💡 [SIPE](https://github.com/sipe-team) 5th Member 
+-	☁ General Lead of [9oormthonUNIV (kakao x goorm)](https://github.com/9oormthon-univ)
 -	🧑‍🏫 Campus Lead & Mentor at LikeLion
--	💻 Organizer of the university hackathon SKHUthon
+-	💻 Organizer of the university hackathon [SKHUthon](https://github.com/Skhuthon)
 -	🌱 Mentor for middle school students in coding and creative thinking
 
 <details>
   <summary>🇰🇷 한국어로 보기</summary>
 
-  - 💡 SIPE 5기 멤버
-  - ☁ [kakao x goorm] **구름톤 유니브 4기 총괄**
+  - 💡 [SIPE](https://github.com/sipe-team) 5기 멤버
+  - ☁ [[kakao x goorm] 구름톤 유니브](https://github.com/9oormthon-univ) **4기 총괄**
   - 🧑‍🏫 **멋쟁이사자처럼** 교내 대표 및 멘토 활동
-  - 💻 교내 해커톤 **스쿠톤** 주최 및 운영
+  - 💻 교내 해커톤 [스쿠톤](https://github.com/Skhuthon) 주최 및 운영
   - 🌱 중학생 대상 코딩 멘토링 진행
 
 </details>
@@ -160,6 +160,7 @@
 
 | Year | Award | Repository |
 |------|-----------|------|
+| 2026 | 🏅 Excellence Award, SIPE 5th SIPEthon (Club Hackathon) | [SiperCurl](https://github.com/sipe-team/5-2_siper_curl) |
 | 2025 | 🥈 2nd Place, 17th SKHU Software Contest | [SKHUni](https://github.com/SKHUniArchive/SKHUni-FE) |
 | 2024 | 🥉 Bronze, 15th SKHU IT Contest | [Mood Friend](https://github.com/LikeLion-12th-SKHU/LikeLion-12th-TEAM02-FE) |
 | 2023 | 🥇 Gold, 14th SKHU IT Contest | [HakSeubJang](https://github.com/GraceKim527/hakSeubJang-BE) |
@@ -170,6 +171,7 @@
   
 | 연도 | 수상 내역 | 레포지토리 |
 |------|-----------|------|
+| 2026 | 사이프 5기 사이프톤 우수상 🏅 | [SiperCurl](https://github.com/sipe-team/5-2_siper_curl) |
 | 2025 | 제 17회 성공회대 소프트웨어 경진대회 2등 🥈 | [스쿠니](https://github.com/SKHUniArchive/SKHUni-FE) |
 | 2024 | 제 15회 성공회대 IT 경진대회 동상 🥉 | [Mood Friend](https://github.com/LikeLion-12th-SKHU/LikeLion-12th-TEAM02-FE) |
 | 2023 | 제 14회 성공회대 IT 경진대회 금상 🥇 | [학습장](https://github.com/GraceKim527/hakSeubJang-BE) |
