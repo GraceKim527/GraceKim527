@@ -137,7 +137,8 @@
 
 ### ✨ Activities
 
-- 💡 [SIPE](https://github.com/sipe-team) 5th Member 
+- 💡 [SIPE](https://github.com/sipe-team) 5th Member
+- 🧑‍⚖️ Judge at [SKHUthon](https://github.com/Skhuthon)
 -	☁ General Lead of [9oormthonUNIV (kakao x goorm)](https://github.com/9oormthon-univ)
 -	🧑‍🏫 Campus Lead & Mentor at LikeLion
 -	💻 Organizer of the university hackathon [SKHUthon](https://github.com/Skhuthon)
@@ -147,6 +148,7 @@
   <summary>🇰🇷 한국어로 보기</summary>
 
   - 💡 [SIPE](https://github.com/sipe-team) 5기 멤버
+  - 🧑‍⚖️ [스쿠톤](https://github.com/Skhuthon) 심사위원
   - ☁ [[kakao x goorm] 구름톤 유니브](https://github.com/9oormthon-univ) **4기 총괄**
   - 🧑‍🏫 **멋쟁이사자처럼** 교내 대표 및 멘토 활동
   - 💻 교내 해커톤 [스쿠톤](https://github.com/Skhuthon) 주최 및 운영
